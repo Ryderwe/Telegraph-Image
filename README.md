@@ -2,7 +2,7 @@
 
 免费图片托管解决方案，Flickr/imgur 替代品。使用 Cloudflare Pages 和 Telegraph。
 
-[English](README-EN.md)|中文
+[English](README-EN.md)|中文qq
 
 > [!IMPORTANT]
 >
